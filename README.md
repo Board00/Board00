@@ -1,5 +1,5 @@
 Hello, my name is Konrad Abukyi Kakraba
-> I’m interested in Programming with python for now
+> I’m interested in Programming with python and html for now
 
 >I’m currently learning a lot
 
