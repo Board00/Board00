@@ -1,9 +1,9 @@
 Hello, my name is Konrad Abukyi Kakraba
-> I’m interested in Programming with python and html for now
+> I’m interested in Programming with python, html, css, javascript and typescript for now
 
 >I’m currently learning a lot
 
->You can reach me on both telegram and whatsapp: +233 243462385  or through email: konradkakraba1234@gmail.com or konikakraba0@gmail.com
+>You can reach me on both telegram: +233 243462385  or through email: konradkakraba1234@gmail.com or konikakraba0@gmail.com
 
 > I love to play chess while i program
 
