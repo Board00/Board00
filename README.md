@@ -1,5 +1,5 @@
 Hello, my name is Konrad Abukyi Kakraba
-> I’m interested in Programming with python, html, css, javascript and typescript for now
+> I’m interested in Programming with python, html, css, javascript, typescript, react, /next.js/
 
 >I’m currently learning a lot
 
